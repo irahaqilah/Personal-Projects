@@ -5,3 +5,7 @@ The link below includes SQL Project 1 from CoRise SQL Crash Course on Launching 
 
 https://colab.research.google.com/drive/1aapFF-tix4u0YOdvFYy4jxUe8uVRDmax?hl=es
 
+### Project 2 Summarize Data of Airbnb Sydney 
+The link below includes SQL Project 2 from CoRise SQL Crash Course that covers data aggregation with computing statistics, conditionals and pivots etc.
+
+https://colab.research.google.com/drive/11Nhy-DUtWMi81M0laIPa-9Hd7yTKkbPy?hl=es
