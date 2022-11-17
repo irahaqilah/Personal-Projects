@@ -10,7 +10,7 @@ The link below includes SQL Project 2 from CoRise SQL Crash Course that covers d
 
 https://colab.research.google.com/drive/11Nhy-DUtWMi81M0laIPa-9Hd7yTKkbPy?hl=es
 
-### Project 1 (Intermediate SQL)
+### Project 1 Working as CoRise Data Analyst (Intermediate SQL)
 The link below includes Project 1 from CoRise Intermediate SQL Course that covers arithmetic, string and datetime operations etc
 
 https://colab.research.google.com/drive/1J670YB5vBqQ21CmSydPSOGowtkpCY8ab?hl=es
