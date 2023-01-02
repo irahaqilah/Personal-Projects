@@ -1,4 +1,4 @@
-# SQL-Launching-Airbnb
+# SQL
 
 ### Project 1 Launching Airbnb Sydney (SQL Crash Course)
 The link below includes SQL Project 1 from CoRise SQL Crash Course on Launching Airbnb in Sydney that covers exploring data from tables, querying and filtering data etc. 
@@ -14,6 +14,8 @@ https://colab.research.google.com/drive/11Nhy-DUtWMi81M0laIPa-9Hd7yTKkbPy?hl=es
 The link below includes Project 1 from CoRise Intermediate SQL Course that covers arithmetic, string and datetime operations etc
 
 https://colab.research.google.com/drive/1J670YB5vBqQ21CmSydPSOGowtkpCY8ab?hl=es
+
+# Python 
 
 ### Project 1 Python for Data Science 
 The link below includes CoRise Python for Data Science Course that covers NumPy to clean, read and process data using Airbnb dataset
