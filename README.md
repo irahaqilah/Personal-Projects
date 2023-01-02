@@ -14,3 +14,13 @@ https://colab.research.google.com/drive/11Nhy-DUtWMi81M0laIPa-9Hd7yTKkbPy?hl=es
 The link below includes Project 1 from CoRise Intermediate SQL Course that covers arithmetic, string and datetime operations etc
 
 https://colab.research.google.com/drive/1J670YB5vBqQ21CmSydPSOGowtkpCY8ab?hl=es
+
+### Project 1 Python for Data Science 
+The link below includes CoRise Python for Data Science Course that covers NumPy to clean, read and process data using Airbnb dataset
+
+https://colab.research.google.com/drive/1dQ0668MXYAMFOKJFOVVCraVcM9NYtRr2?hl=es
+
+### Project 2 Python for Data Science 
+The link below includes CoRise Python for Data Science Course that covers processing data with Pandas
+
+https://colab.research.google.com/drive/1t9MD0o5EBWmUY49fqPSyqJTJFGtvqBB7?hl=es
